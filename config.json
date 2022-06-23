@@ -1,0 +1,8 @@
+{
+  "game": {
+	  	"alien_name_prefix": "Zizi--",
+	  	"max_travels_per_alien": 10000,
+	  	"fight_format_message": "%s has been destroyed by alien %s and alien %s!\n",
+	  	"all_aliens_are_trapped_message": "All aliens are trapped, exiting game!\n"
+  }
+}

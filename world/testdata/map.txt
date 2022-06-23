@@ -1,0 +1,3 @@
+Moscow west=London east=Tokyo
+Sofia west=Paris east=Tokyo
+Tokyo east=Beijing
