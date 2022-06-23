@@ -66,8 +66,10 @@ You can also modify various game parameters such as the alien name prefix from t
 ## Game structure
 
 The game has three main modules: `simulator`, `city` and `world`.
-The `city` module describes the city types and functionality.
+The `city` module defines the city types and functionality.
+
 The `world` module manages the parsing, encoding and functionality of the map.
+
 The `simulator` module is the main game engine and commands the alien and cities actions.
 
 There is no `alien` module because aliens are tracked just with their string names in `Simulator`. Also, aliens cannot perform actions on their own - they move only within the scope of the simulation dependent on other game objects - cities.
