@@ -172,4 +172,4 @@ During the initial alien distribution, however, for each `n` alien a random city
 
 ## License
 
-[MIT](https://github.com/pastet89/alien-invasion/LICENSE.md)
+[MIT](https://github.com/pastet89/alien-invasion/blob/main/LICENSE.md)
