@@ -2,6 +2,8 @@
 
 ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+![test](https://github.com/pastet89/alien-invasion-private/workflows/Tests/badge.svg)  ![build](https://github.com/pastet89/alien-invasion-private/workflows/Build/badge.svg)
+
 ## Overview
 Alien Invasion is a backend game simulating the invasion of aliens invading the Earth. 
 The game starts by passing two CLI arguments: a `N` number of aliens and a path to a file with a world map. 
